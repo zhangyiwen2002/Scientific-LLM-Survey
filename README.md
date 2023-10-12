@@ -40,7 +40,8 @@ This repository collects some scientific LLM papers.
 - 
 ###  Protein function prediction
 - `2019` A High Efficient Biological Language Model for Predicting Protein–Protein Interactions, [Cells](https://doi.org/10.3390/cells8020122)
-- 
+- `2020` Language models of protein sequences at the scale of evolution enable accurate structure prediction, [Cells](https://doi.org/10.1101/2020.12.15.422761).
+- `2022` Language models of protein sequences at the scale of evolution enable accurate structure prediction, [Cells](https://doi.org/10.1101/2022.07.20.500902)
 
 ## Molecule LLM Papers
 - 
